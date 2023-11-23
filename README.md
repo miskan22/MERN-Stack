@@ -1,4 +1,4 @@
-# MERN-Stack
+# MERN-Stack-Website
 This is the MERN stack website for my internship.
 
 This is the overview of the website.
