@@ -1,5 +1,5 @@
 # MERN-Stack-Website
-This is the MERN stack website for my internship.
+I built a MERN-Stack Webiste for my internship project.
 
 # This is the overview of the website.
 
